@@ -5,7 +5,8 @@ Discovery and Source Reliability Estimation" - by Qi Li1, Yaliang Li1, Jing Gao1
 
 # IMPORTANT:
 1)The coressponding paper of the implementation is cited in the folder .
-2)The results of implementation in Python=3.7 is snipped and attached as  "CRH_RESULTS.png" 
+2)The Dataset is uploaded in a separate folder called Data
+3)The results of implementation in Python=3.7 is snipped and attached as  "CRH_RESULTS.png" 
 
 # NOTE:
 1) ingnore a error in ln[69] , proceed to execute rest of the cells
