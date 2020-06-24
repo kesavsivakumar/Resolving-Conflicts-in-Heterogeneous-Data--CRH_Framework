@@ -1,7 +1,7 @@
 # Resolving-Conflicts-in-Heterogeneous-Data--CRH_Framework
-Resolving Conflicts in Heterogeneous Data by Truth Discovery and Source Reliability Estimation
+Resolving Conflicts in Heterogeneous Data by Truth Discovery and Source Reliability Estimation.
 The implementation of "Resolving Conflicts in Heterogeneous Data by Truth
-Discovery and Source Reliability Estimation" - by Qi Li1, Yaliang Li1, Jing Gao1,et. all in PYTHON is given in the notebook file
+Discovery and Source Reliability Estimation" - by Qi Li1, Yaliang Li1, Jing Gao1,et. all, in PYTHON is given in the notebook file
 
 # IMPORTANT:
 1)The corresponding paper of the implementation is cited in the folder 
